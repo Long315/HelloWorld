@@ -1,3 +1,4 @@
 function(){
-  console.log("He uuuuuuuld");
+  final private String name;
+  final private int seme;
 }
