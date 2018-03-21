@@ -1,4 +1,5 @@
 function(){
   final private String name;
-  final private int seme;
+  private int seme;
+  final int year;
 }
