@@ -1,4 +1,4 @@
 function(){
-  final private Strime;
+  final privaime;
   final private int e;
 }
