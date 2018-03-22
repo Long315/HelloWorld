@@ -1,4 +1,4 @@
 function(){
   final private String name;
-  final private int ester;
+  final private int e;
 }
