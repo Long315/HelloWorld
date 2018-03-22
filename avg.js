@@ -1,4 +1,4 @@
 function(){
   final private String name;
-  final private int seme;
+  final private int uuuuuuester;
 }
