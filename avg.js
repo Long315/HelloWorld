@@ -1,4 +1,4 @@
 function(){
-  final private String name;
+  final private Strime;
   final private int e;
 }
